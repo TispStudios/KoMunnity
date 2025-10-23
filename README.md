@@ -12,8 +12,6 @@ Basicamente estamos recriando um KoM moderno. Não queremos que isso seja um sub
 ## O que é esse KoMunnity repo
 Bom, basicamente é um repositório que nós queremos usar para que vocês, interessados no projeto, possam acompanhar o andamento das coisas, reportar bugs, complementar com o que quiserem...
 
-A gente ta pensando em soltar um servidor Alpha em algum momento. Não sei se gostariam de testar ou esperar (A ânsia do ter e o tédio de possuir...).
-
 No mais, fiquem ligados :D
 
 ## O que esperar? Datas?
