@@ -21,4 +21,8 @@ Estamos trabalhando numa primeira versão alpha para teste, para validarmos meca
 
 ## Vamos lançar?
 Pelo menos uma versão de teste vamos ter. CALMA. PARA DE FOFOCA.
+A gente não tem datas nem nada. Mas vamos lançar algo.
+
+## Onde vejo os updates?
+Basicamente nosso [Board](https://github.com/orgs/TispStudios/projects/2) ta aberto. Podem acompanhar por ali.
 
