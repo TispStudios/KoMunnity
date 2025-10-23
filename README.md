@@ -7,7 +7,7 @@ Nosso objetivo é recriar todos os Sistema do KoM legacy, se eu poder chamar ass
 
 A gente tinha começado a trabalhar em cima do  [KoM deixado pelo Ziden](https://github.com/TispStudios/KnightsOfMinecraft/tree/main) e pelo JG. Até conseguimos fazer um build inicial, mas devido a densidade daquele codigo, complexidade, libs atualmente inexistente pro Bukit 1.12.1 decidimos começar do 0.
 
-Basicamente estamos recriando um KoM moderno. Não queremos que isso seja um sucessor do KoM (até porque não temos os mapas, que acredito que seja uma das partes mais nostálgica do kom). Não queremos mexer no legado deixado pelo KoM, mas sim criar uma coisa nova em cima disso. 
+Basicamente estamos recriando um KoM moderno. Não queremos que isso seja um substituto do KoM (até porque não temos os mapas, que acredito que seja uma das partes mais nostálgica do kom). Não queremos mexer no legado deixado pelo KoM, mas sim criar uma coisa nova em cima disso. 
 
 ## O que é esse KoMunnity repo
 Bom, basicamente é um repositório que nós queremos usar para que vocês, interessados no projeto, possam acompanhar o andamento das coisas, reportar bugs, complementar com o que quiserem...
