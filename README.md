@@ -16,3 +16,9 @@ A gente ta pensando em soltar um servidor Alpha em algum momento. Não sei se go
 
 No mais, fiquem ligados :D
 
+## O que esperar? Datas?
+Estamos trabalhando numa primeira versão alpha para teste, para validarmos mecanicas, funcionalidades, planejarmos divulgação, testar o hype da galera... Basicamente isso daqui é um Fã Service, feito por fãs para fãs~~ byrazer~~.
+
+## Vamos lançar?
+Pelo menos uma versão de teste vamos ter. CALMA. PARA DE FOFOCA.
+
