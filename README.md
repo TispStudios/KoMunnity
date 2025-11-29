@@ -5,7 +5,7 @@
 ## Aviso importante
 Somos amigos que jogamos o KoM no passado, desde as primeiras versões. Não jogamos até o final, acredito que a gente tenha parado em 2016/2017 (Acho que foi na época do pixelMC, acho). Eu ainda voltei a jogar um tempo depois, mas pouco. O KoM sempre deixou aquela saudade.
 
-Nosso objetivo é recriar todos os Sistema do KoM legacy, se eu poder chamar assim, na versão atual do Mine. Estamos trabalhando em cima 1.21.8. 
+Nosso objetivo é recriar todos os Sistema do KoM legacy, se eu poder chamar assim, na versão atual do Mine. Estamos trabalhando em cima 1.21.10. 
 
 A gente tinha começado a trabalhar em cima do  [KoM deixado pelo Ziden](https://github.com/TispStudios/KnightsOfMinecraft/tree/main) e pelo JG. Até conseguimos fazer um build inicial, mas devido a densidade daquele codigo, complexidade, libs atualmente inexistente pro Bukit 1.12.1 decidimos começar do 0.
 
