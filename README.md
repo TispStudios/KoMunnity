@@ -1,5 +1,5 @@
 <p align="center">
-<img height="400" alt="logo" src="https://github.com/user-attachments/assets/8c1d865d-e1dc-4b7c-bf69-ab183367a836" />
+<a href="https://knightsofminecraft.com" target="_blank" rel="git"> <img height="400" alt="logo" src="https://github.com/user-attachments/assets/8c1d865d-e1dc-4b7c-bf69-ab183367a836" /></a>
 </p>
 
 ## Aviso importante
