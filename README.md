@@ -1,6 +1,10 @@
 <p align="center">
 <a href="https://knightsofminecraft.com" target="_blank" rel="git"> <img height="400" alt="logo" src="https://github.com/user-attachments/assets/8c1d865d-e1dc-4b7c-bf69-ab183367a836" /></a>
 </p>
+<p align="center">
+<a href="https://www.youtube.com/@komReborn" target="_blank" rel="git"> <img height="250" alt="250" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" /></a>
+<a href="https://tiktok.com/@komreborn" target="_blank" rel="git"> <img height="250" alt="250" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/tiktok.svg" /></a>
+</p>
 
 ## Aviso importante
 Somos amigos que jogamos o KoM no passado, desde as primeiras versões. Não jogamos até o final, acredito que a gente tenha parado em 2016/2017 (Acho que foi na época do pixelMC, acho). Eu ainda voltei a jogar um tempo depois, mas pouco. O KoM sempre deixou aquela saudade.
