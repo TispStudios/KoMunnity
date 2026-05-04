@@ -4,6 +4,8 @@
 <p align="center">
 <a href="https://www.youtube.com/@komReborn" target="_blank" rel="git"> <img height="250" alt="250" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" /></a>
 <a href="https://tiktok.com/@komreborn" target="_blank" rel="git"> <img height="250" alt="250" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/tiktok.svg" /></a>
+<a href="https://discord.gg/tqy87SwBaV" target="_blank" rel="git"> <img height="250" alt="250" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" /></a>
+
 </p>
 
 ## Aviso importante
